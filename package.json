@@ -1,0 +1,17 @@
+{
+    "buildNpmdoc":"cordova-plugin-statusbar",
+    "devDependencies": {
+        "cordova-plugin-statusbar": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "name":"npmdoc-cordova-plugin-statusbar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-cordova-plugin-statusbar"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh"
+    },
+    "version": "0.0.1"
+}
