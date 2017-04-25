@@ -1,6 +1,6 @@
 # npmdoc-cordova-plugin-statusbar
 
-#### api documentation for  [cordova-plugin-statusbar (v2.2.2)](https://github.com/apache/cordova-plugin-statusbar#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-statusbar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-statusbar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-statusbar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-statusbar)
+#### basic api documentation for  [cordova-plugin-statusbar (v2.2.2)](https://github.com/apache/cordova-plugin-statusbar#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-statusbar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-statusbar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-statusbar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-statusbar)
 
 #### Cordova StatusBar Plugin
 
@@ -103,7 +103,8 @@
         "test": "npm run jshint"
     },
     "types": "./types/index.d.ts",
-    "version": "2.2.2"
+    "version": "2.2.2",
+    "bin": {}
 }
 ```
 
